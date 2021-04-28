@@ -38,7 +38,7 @@ THE TEAM
 •	Sarang Dutt
 •	Paliyath S.Aju
 
-MENTOR: 
+MENTORS: 
 •	Ms.Lani Mathew, Assistant Professor at Mar Baselios College of Engineering and Technology, Trivandrum.
 
 •	Ms.Amritha B.J., Assistant Professor at Mar Baselios College of Engineering and Technology,Trivandrum.
