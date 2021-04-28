@@ -41,6 +41,9 @@ THE TEAM
 MENTOR: 
 •	Ms.Lani Mathew, Assistant Professor at Mar Baselios College of Engineering and Technology, Trivandrum.
 
+•	Ms.Amritha B.J., Assistant Professor at Mar Baselios College of Engineering and Technology,Trivandrum.
+
+
 
 
 
