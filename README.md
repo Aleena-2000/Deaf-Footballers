@@ -33,26 +33,14 @@ PHASE 2
 •	Examine the worldwide feasibility of the product and maximize profits earned.
 
 THE TEAM
-•	Sarang Dutt, 2nd year B.Tech UG in Computer Science & Engineering at Mar Baselios College of Engineering and Technology, Trivandrum.
-•	Paliyath S.Aju, 2nd year B.Tech UG in Computer Science & Engineering at Mar Baselios College of Engineering and Technology, Trivandrum.
-•	Aleena Elsa Thomas, 2nd year B.Tech UG in Computer Science & Engineering at Mar Baselios College of Engineering and Technology, Trivandrum.
-•	Hannah Abraham Jacob, 2nd year B.Tech UG in Computer Science & Engineering at Mar Baselios College of Engineering and Technology, Trivandrum.
+•	Sarang Dutt
+•	Paliyath S.Aju
+•	Aleena Elsa Thomas
+•	Hannah Abraham Jacob
 
 MENTOR: 
 •	Ms.Lani Mathew, Assistant Professor at Mar Baselios College of Engineering and Technology, Trivandrum.
 
-FINANCIAL REQUIREMENT
-
-SL.#	  ITEMS	APPROX.  COST (₹)
-1.		Arduino kit 	 2500
-2.		Lilypad Arduino/Arduino mini 	 1000
-3.		Jumper cables 	 300
-4.		LED strip	 700
-5.		Power Supply	 1000
-6.		Vibrating motor 200
-7.		Wristbands 	 200
-8.		IPR registration Shall provide at a later stage
-9.		Miscellaneous	Shall provide at a later stage
 
 
 
