@@ -33,10 +33,10 @@ PHASE 2
 •	Examine the worldwide feasibility of the product and maximize profits earned.
 
 THE TEAM
-•	Sarang Dutt
-•	Paliyath S.Aju
 •	Aleena Elsa Thomas
 •	Hannah Abraham Jacob
+•	Sarang Dutt
+•	Paliyath S.Aju
 
 MENTOR: 
 •	Ms.Lani Mathew, Assistant Professor at Mar Baselios College of Engineering and Technology, Trivandrum.
